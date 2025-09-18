@@ -1,0 +1,35 @@
+DOMANDE TPI
+Cos’è GITHUB
+Cosa significa VERSIONING
+Cosa significa fare un COMMIT
+Cosa è un FORK e un BRANCH	
+
+Guardare cosa è figma
+Registrazione a collab
+
+
+RISPOSTE
+GITHUB è una piattaforma basata sul web che serve per ospitare e gestire i progetti software. 
+La sua funzione principale è quella di consentire a più persone di lavorare contemporaneamente sullo stesso progetto senza creare conflitti.
+È basata su Git, un sistema di controllo di versione, e aggiunge funzionalità sociali come il tracciamento dei bug, le richieste di funzionalità, la gestione dei progetti e molto altro.
+
+Versioning (Controllo di versione)
+Il versioning, o controllo di versione, è un sistema che tiene traccia delle modifiche fatte a un file o a un insieme di file nel tempo.
+In parole semplici, salva le diverse versioni di un progetto, permettendo di tornare a una versione precedente in qualsiasi momento.
+Questo è fondamentale nel lavoro di squadra, perché ogni sviluppatore può lavorare sulla propria versione del codice senza interferire con gli altri.
+
+Fare un COMMIT
+Un commit è un'operazione che salva le modifiche al tuo codice nella storia del progetto. 
+Immagina che sia come un punto di salvataggio in un videogioco. 
+Quando fai un commit, stai dicendo a Git che vuoi registrare un insieme di modifiche specifiche come un'unica unità. 
+Ogni commit ha un messaggio che descrive le modifiche che sono state fatte, rendendo più facile capire cosa è successo in ogni fase dello sviluppo.
+
+FORK e BRANCH
+Un FORK è una copia completa di un repository (un progetto) che si trova sul tuo account GitHub. 
+Se vuoi contribuire a un progetto di qualcun altro, ma non hai i permessi per modificarlo direttamente, puoi farne una copia (fork). 
+In questo modo, puoi lavorare sulle tue modifiche in modo autonomo e poi, quando sono pronte, proporle al proprietario del progetto originale.
+Un BRANCH (ramo) è una linea di sviluppo separata all'interno dello stesso repository. 
+I branch sono usati per lavorare su nuove funzionalità o correggere bug senza alterare la versione principale e stabile del codice (solitamente chiamata main o master). 
+Quando il lavoro sul branch è completo, le modifiche possono essere unite (fuse) nel ramo principale. 
+Questo permette a diversi sviluppatori di lavorare su funzionalità diverse contemporaneamente, isolando i cambiamenti e riducendo il rischio di conflitti.
+
